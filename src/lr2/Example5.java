@@ -7,6 +7,6 @@ public class Example5 {
         System.out.println("Напиши число, проверим сколько тысяч во введеном числе");
         int number = in.nextInt();
         int  oooo = number/1000;
-        System.out.println("Тысяч в числе: " + oooo);
+        System.out.println("Тысяч в числе: " + oooo%10);
     }
 }

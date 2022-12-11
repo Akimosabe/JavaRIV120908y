@@ -5,6 +5,7 @@ public class Example3 {
     public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
     int l  = in.nextInt();
+                                     //через for
     int[] x = new int[l];
     x[0] = 1;
     x[1] = 1;
@@ -13,15 +14,19 @@ public class Example3 {
     } for (int i = 0; i < l; ++i) {
         System.out.println(x[i]);
     }
-
+                                     //через while
     int a = 1;
+
     int b = 0;
     int c = 1;
+
     while(a<=l)
     {
         int sum =  b + c;
+        b = c;
         c = sum;
         a++;
+        System.out.print(b + " ");
 
     }
 

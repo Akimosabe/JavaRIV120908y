@@ -10,14 +10,11 @@ public class Example8 {
         {
             switch (letter)
             {
-                case 'A':
-                    letter++;
+                case 'A': letter++;
                     break;
-                case 'E':
-                    letter++;
+                case 'E': letter++;
                     break;
-                case 'I':
-                    letter++;
+                case 'I': letter++;
                     break;
             }
             alphabet[i]=letter;

@@ -36,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example8">
+  <component name="RunManager" selected="Application.Example10">
     <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr3.Example10" />
       <module name="Java RIV120908y" />
@@ -104,8 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example8" />
         <item itemvalue="Application.Example10" />
+        <item itemvalue="Application.Example8" />
         <item itemvalue="Application.Example7" />
         <item itemvalue="Application.Example5" />
         <item itemvalue="Application.Example4" />

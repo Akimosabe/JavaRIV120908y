@@ -14,11 +14,11 @@ public class Example10  {
         }
         System.out.println();
         Arrays.sort(numbers);
+
         for (int i = 0; i < 10; i++)
         {
             numbersrev[i]=numbers[9-i];
             System.out.print(numbersrev[i] + " ");
         }
-
     }
 }

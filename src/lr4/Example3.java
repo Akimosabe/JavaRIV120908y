@@ -2,7 +2,7 @@ package lr4;
 
 public class Example3 {
     public static void main(String[] args) {
-        int y = 10; // w = y  h = x
+        int y = 10;
         int x = 6;
         int [] [] z = new int [x][y];
         int a = 0;

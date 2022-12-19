@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fef4fe0f-6898-4786-9fcc-479528ce6098" name="Changes" comment="lr4 4fix">
+    <list default="true" id="fef4fe0f-6898-4786-9fcc-479528ce6098" name="Changes" comment="lr4 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr4/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr4/Example5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr4/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr4/Example6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example5">
+  <component name="RunManager" selected="Application.Example6">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr4.Example1" />
       <module name="Java RIV120908y" />
@@ -51,19 +51,6 @@
     </configuration>
     <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr4.Example2" />
-      <module name="Java RIV120908y" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example3" />
       <module name="Java RIV120908y" />
       <extension name="coverage">
         <pattern>
@@ -101,13 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr4.Example6" />
+      <module name="Java RIV120908y" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example6" />
         <item itemvalue="Application.Example5" />
         <item itemvalue="Application.Example4" />
         <item itemvalue="Application.Example2" />
         <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.Example3" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671456177845</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="lr4 5">
+      <created>1671457279461</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1671457279461</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,6 +358,7 @@
     <MESSAGE value="lr4 3fix" />
     <MESSAGE value="lr4 1-2fix" />
     <MESSAGE value="lr4 4fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr4 4fix" />
+    <MESSAGE value="lr4 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr4 5" />
   </component>
 </project>

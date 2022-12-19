@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fef4fe0f-6898-4786-9fcc-479528ce6098" name="Changes" comment="lr3 8ex">
+    <list default="true" id="fef4fe0f-6898-4786-9fcc-479528ce6098" name="Changes" comment="lr3 8, 10 ex">
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr3/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr3/Example8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,22 +44,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example10">
+  <component name="RunManager" selected="Application.lr4.Example8">
     <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr3.Example10" />
-      <module name="Java RIV120908y" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.Example4" />
       <module name="Java RIV120908y" />
       <extension name="coverage">
         <pattern>
@@ -102,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lr4.Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr4.Example8" />
+      <module name="Java RIV120908y" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lr4.Example8" />
         <item itemvalue="Application.Example10" />
         <item itemvalue="Application.Example8" />
         <item itemvalue="Application.Example7" />
         <item itemvalue="Application.Example5" />
-        <item itemvalue="Application.Example4" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +262,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670769818476</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="lr3 8, 10 ex">
+      <created>1670773499537</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670773499537</updated>
+    </task>
+    <task id="LOCAL-00021" summary="lr3 8, 10 ex">
+      <created>1670773589159</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1670773589159</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,26 +305,7 @@
     <MESSAGE value="lr3 5ex" />
     <MESSAGE value="lr3 7ex" />
     <MESSAGE value="lr3 8ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr3 8ex" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/lr3/Example3.java</url>
-          <line>4</line>
-          <properties class="lr3.Example3" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lr3/Example10.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="lr3 8, 10 ex" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr3 8, 10 ex" />
   </component>
 </project>

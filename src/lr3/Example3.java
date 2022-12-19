@@ -16,7 +16,6 @@ public class Example3 {
     }
                                      //через while
     int a = 1;
-
     int b = 0;
     int c = 1;
 

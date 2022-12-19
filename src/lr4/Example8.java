@@ -16,14 +16,41 @@ public class Example8 {
         char[] chars = value.toCharArray();
         int[] ints = new int[value.length()];
 
-        for(int i = 0 ; i < chars.length; i ++){
-            ints [i] = chars[i] + key;
+        for (int i = 0; i < chars.length; i++) {
+            ints[i] = chars[i] + key;
         }
-        for(int i = 0; i < chars.length; i++){
+        for (int i = 0; i < chars.length; i++) {
             chars[i] = (char) ints[i];
         }
-        System.out.println(Arrays.toString(chars));
+        String str = new StringBuilder().append("").append(chars).toString();
+        System.out.println(str);
 
 
+        System.out.println("Выполнить обратное преобразование? y/n :");
+        boolean answer = false;
+
+        while (!answer){
+            String reply = in.next();
+
+            if (reply.toLowerCase().equals("y")) {
+                for (int i = 0; i < chars.length; i++) {
+                    ints[i] = chars[i] - key;
+                }
+                for (int i = 0; i < chars.length; i++){
+                    chars[i] = (char) ints[i];
+                }
+                String strr = new StringBuilder().append("").append(chars).toString();
+                System.out.println(strr);
+                answer = true;
+            }
+            else if (reply.toLowerCase().equals("n")) {
+                System.out.println("До свидания!");
+                answer = true;
+            }
+            else {
+                System.out.println("Введите корректный ответ: ");
+                answer = false;
+            }
+        }
     }
 }

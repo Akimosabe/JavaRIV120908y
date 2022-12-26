@@ -7,7 +7,7 @@ public class Example1 {
         this.ch1 = ch1;
     }
 
-    public int getSCodeSymnol(){
+    public int getSCodeSymbol(){
         return ch1;
     }
 

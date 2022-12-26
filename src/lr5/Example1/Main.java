@@ -8,7 +8,7 @@ public class Main {
         Example1 example1 = new Example1();
 
         example1.setCh1('K');
-        System.out.println(example1.getSCodeSymnol());
+        System.out.println(example1.getSCodeSymbol());
 
         example1.showCodeAndValue();
     }

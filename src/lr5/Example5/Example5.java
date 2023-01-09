@@ -6,7 +6,6 @@ public class Example5 {
     public Example5(int i){
         this.setI(i);
     }
-
     public void setI() {
         this.i = 0;
     }

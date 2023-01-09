@@ -9,7 +9,6 @@ public class Main {
         ex6.showMinMax();
 
         System.out.println();
-
         ex6 = new Example6(0, 4);
         ex6.showMinMax();
         ex6.setVal(100);

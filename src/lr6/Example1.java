@@ -7,7 +7,6 @@ public class Example1 {
     public void setValue(char chr) {
         this.chr = chr;
     }
-
     public void setValue(String str) {
         this.str = str;
     }

@@ -13,7 +13,6 @@ public class Example6 {
     public void setVal(int a) {
         this.updateValues(a, a);
     }
-
     public void setVal(int a, int b){
         this.updateValues(a, b);
     }

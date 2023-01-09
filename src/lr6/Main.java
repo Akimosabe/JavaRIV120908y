@@ -12,7 +12,6 @@ public class Main {
         e1.setValue('a');
         e1.setValue("b");
         e1.showValues();
-
         char[] c = new char[]{'a', 'b', 'c'};
         e1.setValue(c);
         c = new char[]{'m'};

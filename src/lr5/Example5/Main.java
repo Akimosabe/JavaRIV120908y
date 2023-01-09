@@ -10,6 +10,7 @@ public class Main {
         ex5.setI();
         ex5.checkI();
 
+
         System.out.println();
     }
 }

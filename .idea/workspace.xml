@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fef4fe0f-6898-4786-9fcc-479528ce6098" name="Changes" comment="lr5">
-      <change afterPath="$PROJECT_DIR$/src/lr5/Example5/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr5/Example5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr5/Example6/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr5/Example6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr6/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -377,7 +381,28 @@
       <option name="project" value="LOCAL" />
       <updated>1672081216178</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="lr5">
+      <created>1673291122073</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1673291122073</updated>
+    </task>
+    <task id="LOCAL-00038" summary="lr5">
+      <created>1673291145394</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1673291145394</updated>
+    </task>
+    <task id="LOCAL-00039" summary="lr5">
+      <created>1673291182606</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1673291182606</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

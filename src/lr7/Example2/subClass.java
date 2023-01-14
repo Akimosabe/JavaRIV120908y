@@ -3,7 +3,6 @@ package lr7.Example2;
 public class subClass extends superClass {
     private String str2;
     public int int1;
-
     subClass() {setStr1();}
     subClass(String str2) {setStr1(str2);}
     subClass(int int1) {setStr1(); this.setInt1(int1);}

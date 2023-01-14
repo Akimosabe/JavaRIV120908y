@@ -18,5 +18,6 @@ public class superClass {
         return "superClass{" +
                 "superchar=" + superchar +
                 '}';
+
     }
 }

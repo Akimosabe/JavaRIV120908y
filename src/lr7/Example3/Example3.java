@@ -13,5 +13,6 @@ public class Example3 {
         subClass2 SecondSubClassTest = new subClass2(1024, 'K', "киллобайт");
         String className3 = SecondSubClassTest.toString();
         System.out.println(className3);
+
     }
 }

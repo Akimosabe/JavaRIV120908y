@@ -13,5 +13,6 @@ public class Example4 {
 
         subClass2 sub2copy = new subClass2(sub2);
         System.out.println(sub2copy.toString());
+
     }
 }

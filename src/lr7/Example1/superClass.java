@@ -16,6 +16,7 @@ public class superClass {
                     " str 1 = " + this.getStr1();
             return superClassNameAndFieldValue;
         }
+
         public String getStr1() {
             return str1;
         }

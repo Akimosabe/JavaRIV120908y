@@ -23,5 +23,6 @@ public class superClass {
     public String toString() {
         String superClassNameAndFieldValue = "superClassTest{" + "str1=\"" + getStr1() + '\"' + " string.length = " +"\""+getStr1length()+"\"}";
         return superClassNameAndFieldValue;
+
     }
 }

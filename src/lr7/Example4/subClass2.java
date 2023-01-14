@@ -20,5 +20,6 @@ public class subClass2 extends subClass1 {
                 ", substring='" + substring + '\'' +
                 ", superchar=" + superchar +
                 '}';
+
     }
 }

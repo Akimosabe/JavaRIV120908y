@@ -1,6 +1,7 @@
 package lr7.Example3;
 
 public class subClass1 extends superClass{
+
     subClass1(int int1) {
         super(int1);
     }

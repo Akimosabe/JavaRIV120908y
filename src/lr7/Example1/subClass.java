@@ -21,7 +21,6 @@ public class subClass extends superClass {
                 " str 3 = " + this.str3;
         return ClassNameAndFieldValue;
     }
-
     public String getStr3() {
         return str3;
     }

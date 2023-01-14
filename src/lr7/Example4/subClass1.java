@@ -18,5 +18,6 @@ public class subClass1  extends superClass{
                 "substring='" + substring + '\'' +
                 ", superchar=" + superchar +
                 '}';
+
     }
 }

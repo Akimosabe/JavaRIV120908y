@@ -1,6 +1,7 @@
 package lr7.Example3;
 
 public class superClass {
+
     public int int1;
     public void setInt1(int int1) {
         this.int1 = int1;

@@ -5,7 +5,7 @@ public class Example1 {
         superClass superClassObject = new superClass("передал в cуперкласс");
         String className = superClassObject.toString();
         System.out.println(className);
-
+        
         subClass subClassObject1 = new subClass("передал в подкласс");
         String subClassName = subClassObject1.toString();
         System.out.println(subClassName);

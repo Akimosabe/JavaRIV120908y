@@ -25,6 +25,5 @@ public class Example2 {
         superClass Test5 = new subClass("test this and this", 256);
         String subClassTest3 = Test5.toString();
         System.out.println(subClassTest3);
-
     }
 }

@@ -1,18 +1,19 @@
-package timus.task_1293;
-import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        PrintWriter out = new PrintWriter(System.out);
+        float gold = in.nextInt();
+        float minGold = in.nextInt();
+        int perc = in.nextInt();
+        int years = 0;
+        float coef = ((float)(100-perc)/100);
 
-        int x = in.nextInt();
-        int y = in.nextInt();
-        int z = in.nextInt();
-        int result = x*y*z*2;
+        while (gold > minGold) {
+            years++;
+            gold *= coef;
+        }
 
-        out.println(result);
-        out.flush();
+        System.out.println(years);
     }
 }

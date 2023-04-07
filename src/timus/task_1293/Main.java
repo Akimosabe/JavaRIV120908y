@@ -1,19 +1,20 @@
+package task_1293;
+
+import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        float gold = in.nextInt();
-        float minGold = in.nextInt();
-        int perc = in.nextInt();
-        int years = 0;
-        float coef = ((float)(100-perc)/100);
+        PrintWriter out = new PrintWriter(System.out);
 
-        while (gold > minGold) {
-            years++;
-            gold *= coef;
-        }
+        int N = in.nextInt();
+        int A = in.nextInt();
+        int B = in.nextInt();
 
-        System.out.println(years);
+        int res = (N * (A * B)) * 2;
+
+        out.println(res);
+        out.flush();
     }
 }

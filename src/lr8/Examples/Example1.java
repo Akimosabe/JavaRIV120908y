@@ -11,13 +11,13 @@ public class Example1 {
                 System.out.println("Полный путь1: "+ f1.getAbsolutePath());
             }
 
-            // Создание файла на диске Е и вывод полного пути
-            File f2=new File("G:\\MyFile2.txt");
+            // Создание файла на диске D и вывод полного пути
+            File f2=new File("D:\\MyFile2.txt");
             f2.createNewFile();
             System.out.println( "Полный путь 2: "+ f2.getAbsolutePath());
 
             // Создание нескольких вложенных папок
-            File f3=new File("G:\\Papka1\\Papka2\\Papka3");
+            File f3=new File("D:\\Java\\Java2\\Java3");
             f3.mkdirs();
             System.out.println("Полный путь 3: "+ f3.getAbsolutePath());
         } catch (Exception e) {

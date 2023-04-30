@@ -20,7 +20,7 @@ public class Example2 {
     public static void main(String[] args) throws IOException {
         try {
             //С потоком связан файл
-            InputStream inFile = new FileInputStream("H:/edu/text1.txt");
+            InputStream inFile = new FileInputStream("D:/MyFile2.txt");
             readAllByByte(inFile);
             System.out.print("\n\n\n");
             inFile.close();

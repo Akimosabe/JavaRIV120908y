@@ -3,7 +3,7 @@ import java.io.File;
 public class Example1 {
     public static void main(String[] args) {
         try {
-            // Создание файла в текущей папке (где расположен файл Sample01.java)
+            // Создание файла в текущей папке (где расположен файл Example1.java)
             File f1=new File("MyFile1.txt");
             f1.createNewFile();
             if (f1.exists()) {

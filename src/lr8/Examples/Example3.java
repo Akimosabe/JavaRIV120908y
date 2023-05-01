@@ -20,7 +20,7 @@ public class Example3 {
     }
 
     public static void main(String[] args) throws IOException {
-        String fileName = "H://edu/text1.txt";
+        String fileName = "D:/MyFile2.txt";
         InputStream inFile = null; //переменная объявляется до секции try, чтобы не ограничивать область видимости
 
         try {

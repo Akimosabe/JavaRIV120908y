@@ -5,7 +5,7 @@ public class Example4 {
     public static void main(String[] args) {
         try{
             // Создание исходного файла numIsh.txt и запись в него чисел типа float
-            File f1=new File("H:\\edu\\numIsh.txt");
+            File f1=new File("D:\\Java\\numIsh.txt");
             f1.createNewFile();
             Scanner sc = new Scanner(System.in, "cp1251");
             DataOutputStream wr =
@@ -19,7 +19,7 @@ public class Example4 {
             wr.close();
 
             // Создание файла numRez.txt и переписывание в него чисел из numIsh.txt
-            File f2=new File("E:\\My\\numRez.txt");
+            File f2=new File("D:\\Java\\numRez.txt");
             f2.createNewFile();
 
             // поток для чтения из исходного файла numIsh.txt

@@ -1,4 +1,4 @@
-package lr8.Examples;
+package lr8.Example1;
 import java.io.File;
 public class Example1 {
     public static void main(String[] args) {

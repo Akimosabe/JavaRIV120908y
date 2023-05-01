@@ -1,4 +1,4 @@
-package lr8.Examples;
+package lr8.Example1;
 import java.io.*;
 public class Example9 {
     public static void main(String[] args) throws IOException {
@@ -8,10 +8,10 @@ public class Example9 {
         try { // Создание потоков для чтения и записи с нужной кодировкой
             br = new BufferedReader(
                     new InputStreamReader(
-                            new FileInputStream("H:\\edu\\MyFile1.txt"),"cp1251"));
+                            new FileInputStream("D:\\MyFile1.txt"),"cp1251"));
             bw = new BufferedWriter(
                     new OutputStreamWriter(
-                            new FileOutputStream("H:\\edu\\MyFile2.txt"),"cp1251")); // Переписывание информации из одного файла в другой
+                            new FileOutputStream("D:\\MyFile2.txt"),"cp1251")); // Переписывание информации из одного файла в другой
             int lineCount = 0; // счетчик строк
             String s;
             while ((s = br.readLine()) != null) {

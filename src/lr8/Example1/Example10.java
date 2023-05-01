@@ -1,4 +1,4 @@
-package lr8.Examples;
+package lr8.Example1;
 import java.io.*;
 public class Example10 {
     public static void main(String[] args) throws IOException {
@@ -8,8 +8,8 @@ public class Example10 {
         try {
             // Создание потоков
             br = new BufferedReader(new InputStreamReader(
-                    new FileInputStream("H:\\edu\\MyFile1.txt"),"cp1251"));
-            out = new PrintWriter("H:\\edu\\MyFile2.txt","cp1251"); // Переписывание информации из одного файла в другой
+                    new FileInputStream("D:\\MyFile1.txt"),"cp1251"));
+            out = new PrintWriter("D:\\MyFile2.txt","cp1251"); // Переписывание информации из одного файла в другой
             int lineCount = 0;
             String s;
             while ((s = br.readLine()) != null) {

@@ -1,4 +1,4 @@
-package lr8.Examples;
+package lr8.Example1;
 import java.io.*;
 import java.net.URL;
 public class Example8 {
@@ -15,7 +15,7 @@ public class Example8 {
     }
     public static void main(String[] args) {
         try { // С потоком связан файл
-            InputStream inFile = new FileInputStream("H:\\edu\\MyFile1.txt"); // байтовый поток
+            InputStream inFile = new FileInputStream("D:\\MyFile1.txt"); // байтовый поток
             Reader rFile= new InputStreamReader(inFile,"cp1251"); // символьный поток
             readAllByByte(rFile);
             System.out.print("\n\n\n");

@@ -1,4 +1,4 @@
-package lr8.Examples;
+package lr8.Example1;
 import java.io.*;
 public class Example7 {
     public static void main(String[] args) throws IOException {
@@ -7,8 +7,8 @@ public class Example7 {
 
         try {
             // Создание файловых символьных потоков для чтения и записи
-            br = new BufferedReader(new FileReader("H:\\edu\\MyFile1.txt"), 1024);
-            out = new BufferedWriter(new FileWriter("H:\\edu\\MyFile2.txt"));
+            br = new BufferedReader(new FileReader("D:\\MyFile1.txt"), 1024);
+            out = new BufferedWriter(new FileWriter("D:\\MyFile2.txt"));
 
             int lineCount = 0; //счетчик строк
             String s;

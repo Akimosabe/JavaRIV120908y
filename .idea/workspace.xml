@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fef4fe0f-6898-4786-9fcc-479528ce6098" name="Changes" comment="lr8 rename">
-      <change afterPath="$PROJECT_DIR$/src/lr8/Exaple2_3/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Exaple2_3/Example3.java" afterDir="false" />
+    <list default="true" id="fef4fe0f-6898-4786-9fcc-479528ce6098" name="Changes" comment="lr8 end">
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Example1/Example9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr8/Exaple2_3/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr8/Example2_3/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr8/Exaple2_3/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr8/Example2_3/Example3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +65,11 @@
       </method>
     </configuration>
     <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr8.Exaple2_3.Example2" />
+      <option name="MAIN_CLASS_NAME" value="lr8.Example2_3.Example2" />
       <module name="Java RIV120908y" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr8.Exaple2_3.*" />
+          <option name="PATTERN" value="lr8.Example2_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,11 +78,11 @@
       </method>
     </configuration>
     <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr8.Exaple2_3.Example3" />
+      <option name="MAIN_CLASS_NAME" value="lr8.Example2_3.Example3" />
       <module name="Java RIV120908y" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr8.Exaple2_3.*" />
+          <option name="PATTERN" value="lr8.Example2_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669452412711</updated>
-    </task>
-    <task id="LOCAL-00004" summary="fix: Ex7">
-      <created>1669465453925</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1669465453925</updated>
     </task>
     <task id="LOCAL-00005" summary="lr2">
       <created>1670142934403</created>
@@ -465,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682950298813</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="lr8 end">
+      <created>1682953298772</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1682953298773</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -480,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lr3 5ex" />
     <MESSAGE value="lr3 7ex" />
     <MESSAGE value="lr3 8ex" />
     <MESSAGE value="lr3 8, 10 ex" />
@@ -505,7 +517,8 @@
     <MESSAGE value="lr8 ex1, ex2 fix" />
     <MESSAGE value="lr8 ex3, ex4, ex6 fix" />
     <MESSAGE value="lr8 rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr8 rename" />
+    <MESSAGE value="lr8 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr8 end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

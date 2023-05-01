@@ -1,4 +1,4 @@
-package lr8.Exaple2_3;
+package lr8.Example2_3;
 import java.io.*;
 
 public class Example2 {

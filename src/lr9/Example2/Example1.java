@@ -11,7 +11,7 @@ public class Example1 {
             int[] array = new int[size];
 
             for (int i = 0; i < size; i++) {
-                System.out.print("Введите " + (i + 1) + "-й элемент массива: ");
+                System.out.print("Введите " + (i + 1) + " элемент массива: ");
                 array[i] = scanner.nextInt();
 
                 if (array[i] <= 0) {

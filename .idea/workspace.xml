@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fef4fe0f-6898-4786-9fcc-479528ce6098" name="Changes" comment="lr 10 fin">
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example1/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example1/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example1/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example1/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example1/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example2/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example3/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example4/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example4/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example4/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example5/Down.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example5/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example5/Top.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example6/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example7/Arr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example7/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example8/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/Example8/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fef4fe0f-6898-4786-9fcc-479528ce6098" name="Changes" comment="lr 11 fin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

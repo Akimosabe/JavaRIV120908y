@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fef4fe0f-6898-4786-9fcc-479528ce6098" name="Changes" comment="lr 12 fin">
+    <list default="true" id="fef4fe0f-6898-4786-9fcc-479528ce6098" name="Changes" comment="lr 13 fin">
       <change afterPath="$PROJECT_DIR$/src/lr13/Example1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/lr13/Example2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/lr13/Example3.java" afterDir="false" />
@@ -131,13 +131,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669452412711</updated>
-    </task>
-    <task id="LOCAL-00012" summary="lr3 2ex">
-      <created>1670762120624</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1670762120624</updated>
     </task>
     <task id="LOCAL-00013" summary="lr3 2ex">
       <created>1670763212808</created>
@@ -475,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686940138511</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="lr 13 fin">
+      <created>1687025395680</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1687025395681</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +491,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lr4 3fix" />
     <MESSAGE value="lr4 1-2fix" />
     <MESSAGE value="lr4 4fix" />
     <MESSAGE value="lr4 5" />
@@ -516,7 +515,8 @@
     <MESSAGE value="lr 10 fin" />
     <MESSAGE value="lr 11 fin" />
     <MESSAGE value="lr 12 fin" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr 12 fin" />
+    <MESSAGE value="lr 13 fin" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr 13 fin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
